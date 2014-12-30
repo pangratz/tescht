@@ -1,3 +1,1 @@
-Hello world
-huhu
-huhu
+Hello world!
